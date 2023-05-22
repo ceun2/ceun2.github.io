@@ -13,15 +13,23 @@
 
 <div style="display: flex;">
   <div style="flex: 1;">
-    <h2><center><p><code style="padding: 5px;">Interest</code></p></center></h2>
-    <h4><p>1. Start-up <br> 2. New technology</p>
+    <h2><center><code style="padding: 5px;">Interest</code></center></h2>
+    <center><table><tbody>
+    <tr><td><center>START-UP</center></td></tr>
+    <tr><td><center>New-technology</center></td></tr>
+    </tbody></table></center>
   </div>
   <div style="flex: 1;">
-    <h2><center><p><code style="padding: 5px;">Skills</code></p></center></h2>
-    <h3><center><p><code>java</code></p></center></h3>
+    <h2><center><code style="padding: 5px;">Skills</code></center></h2>
+    <center><table><tbody>
+    <tr><td><center><code>JAVA </code></center></td></tr>
+    <tr><td><center><code>Kotlin</code></center></td></tr>
+    <tr><td><center><code>Python</code></center></td></tr>
+    </tbody></table></center>
   </div>
   <div style="flex: 1;">
-    <h2><center><p><code style="padding: 5px;">Certifications</code></p></center></h2>
+    <h2><center><code style="padding: 5px;">Certifications</code></center></h2>
   </div>
 </div>
+
 
