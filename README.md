@@ -11,25 +11,39 @@
 
 <br>
 
+<style>
+  table {
+    margin-left: auto;
+    margin-right: auto;
+  }
+</style>
+
+
 <div style="display: flex;">
   <div style="flex: 1;">
     <h2><center><code style="padding: 5px;">Interest</code></center></h2>
-    <center><table><tbody>
+    <table><tbody>
     <tr><td><center>START-UP</center></td></tr>
     <tr><td><center>New-technology</center></td></tr>
-    </tbody></table></center>
+    </tbody></table>
   </div>
   <div style="flex: 1;">
     <h2><center><code style="padding: 5px;">Skills</code></center></h2>
-    <center><table><tbody>
+    <table ><tbody>
     <tr><td><center><code>JAVA </code></center></td></tr>
     <tr><td><center><code>Kotlin</code></center></td></tr>
     <tr><td><center><code>Python</code></center></td></tr>
-    </tbody></table></center>
+    </tbody></table>
   </div>
   <div style="flex: 1;">
     <h2><center><code style="padding: 5px;">Certifications</code></center></h2>
   </div>
 </div>
+
+<h2> Link
+<br>
+<h4> BLOG <https://blog.naver.com/ecloud0313></h4>  
+<h4> GITHUB https://github.com/ceun2 </h4>
+<h4> E-MAIL toceun2@gmail.com </h4>
 
 
