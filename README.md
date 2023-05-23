@@ -33,8 +33,9 @@
 </div>
 
 <h2> Link</h2>
-<h4>BLOG [https://blog.naver.com/ecloud0313](https://blog.naver.com/ecloud0313)</h4>
-<h4> GITHUB https://github.com/ceun2 </h4>
-<h4> E-MAIL toceun2@gmail.com </h4>
+<h4> E-MAIL <a href="mailto:toceun2@gmail.com">toceun2@gmail.com</a></h4>
+<h4> GITHUB <a href="https://github.com/ceun2">https://github.com/ceun2</a></h4>
+<h4><span style="color: green;">BLOG</span> <a href="https://blog.naver.com/ecloud0313">https://blog.naver.com/ecloud0313</a></h4>
+
 
 
