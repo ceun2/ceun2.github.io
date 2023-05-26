@@ -19,7 +19,7 @@
   </div>
   <div style="flex: 1;">
     <h2><center><code style="padding: 5px;">Interest</code></center></h2>
-    <table style="margin-left: 100px; margin-right: 100px;"><tbody>
+    <table style="margin-left: 50px; margin-right: 50px;"><tbody>
     <tr><td><center>START-UP</center></td></tr>
     <tr><td><center>&nbsp;&nbsp;&nbsp;&nbsp;New-technology&nbsp;&nbsp;&nbsp;&nbsp;</center></td></tr>
     </tbody></table>
