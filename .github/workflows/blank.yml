@@ -1,1 +1,8 @@
+name: page test
 
+on:
+  push:
+    branches: main
+
+jobs:
+  build:
