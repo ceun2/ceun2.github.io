@@ -10,24 +10,23 @@
 </div>
 
 <br>
-
 <div style="display: flex;">
   <div style="flex: 1;">
     <h2><center><code style="padding: 5px;">Skills</code></center></h2>
-    <table style="margin-left:auto; margin-right:auto;"><tbody>
-    <tr><td><center>&nbsp;&nbsp;<code>JAVA</code> &nbsp;&nbsp;<code>Kotlin</code> &nbsp;&nbsp;<code>Python</code>&nbsp;&nbsp;</center></td></tr>
+    <table><tbody>
+    <tr><td><center>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>JAVA</code> &nbsp;&nbsp;<code>Kotlin</code> &nbsp;&nbsp;<code>Python</code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</center></td></tr>
     </tbody></table>
   </div>
   <div style="flex: 1;">
     <h2><center><code style="padding: 5px;">Interest</code></center></h2>
-    <table style="margin-left:auto; margin-right:auto;"><tbody>
+    <table><tbody>
     <tr><td><center>START-UP</center></td></tr>
-    <tr><td><center>&nbsp;&nbsp;&nbsp;&nbsp;New-technology&nbsp;&nbsp;&nbsp;&nbsp;</center></td></tr>
+    <tr><td><center>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;New-technology&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</center></td></tr>
     </tbody></table>
   </div>
   <div style="flex: 1;">
     <h2><center><code style="padding: 5px;">Certifications</code></center></h2>
-    <table style="margin-left:auto; margin-right:auto;"><tbody>
+    <table><tbody>
     <tr><td>
         <ol><li>Financial
             <ul>
