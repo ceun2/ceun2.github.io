@@ -14,20 +14,20 @@
 <div style="display: flex;">
   <div style="flex: 1;">
     <h2><center><code style="padding: 5px;">Skills</code></center></h2>
-    <center><table><tbody>
-    <tr><td><center><code>JAVA</code> &nbsp;&nbsp;<code>Kotlin</code> &nbsp;&nbsp;<code>Python</code></center></td></tr>
-    </tbody></table></center>
+    <table style="margin-left:auto; margin-right:auto;"><tbody>
+    <tr><td><center>&nbsp;&nbsp;<code>JAVA</code> &nbsp;&nbsp;<code>Kotlin</code> &nbsp;&nbsp;<code>Python</code>&nbsp;&nbsp;</center></td></tr>
+    </tbody></table>
   </div>
   <div style="flex: 1;">
     <h2><center><code style="padding: 5px;">Interest</code></center></h2>
-    <center><table><tbody>
+    <table style="margin-left:auto; margin-right:auto;"><tbody>
     <tr><td><center>START-UP</center></td></tr>
     <tr><td><center>&nbsp;&nbsp;&nbsp;&nbsp;New-technology&nbsp;&nbsp;&nbsp;&nbsp;</center></td></tr>
-    </tbody></table></center>
+    </tbody></table>
   </div>
   <div style="flex: 1;">
     <h2><center><code style="padding: 5px;">Certifications</code></center></h2>
-    <table><tbody>
+    <table style="margin-left:auto; margin-right:auto;"><tbody>
     <tr><td>
         <ol><li>Financial
             <ul>
@@ -52,6 +52,9 @@
 <h3> E-MAIL <a href="mailto:toceun2@gmail.com">toceun2@gmail.com</a></h3>
 <h3> GITHUB <a href="https://github.com/ceun2">https://github.com/ceun2</a></h3>
 <h3><span style="color: green;">BLOG</span> <a href="https://blog.naver.com/ecloud0313">https://blog.naver.com/ecloud0313</a></h3>
+
+<br>
+<br>
 
 
 
