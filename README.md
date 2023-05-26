@@ -13,20 +13,20 @@
 <div style="display: flex;justify-content: center;">
   <div style="flex: 1;">
     <h2><center><code style="padding: 5px;">Skills</code></center></h2>
-    <center><table><tbody>
+    <table style="margin-left: auto; margin-right: auto;"><tbody>
     <tr><td><center>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>JAVA</code> &nbsp;&nbsp;<code>Kotlin</code> &nbsp;&nbsp;<code>Python</code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</center></td></tr>
-    </tbody></table></center>
+    </tbody></table>
   </div>
   <div style="flex: 1;">
     <h2><center><code style="padding: 5px;">Interest</code></center></h2>
-    <center><table><tbody>
+    <table style="margin-left: auto; margin-right: auto;"><tbody>
     <tr><td><center>START-UP</center></td></tr>
-    <tr><td><center>New-technology&nbsp;&nbsp;&nbsp;&nbsp;</center></td></tr>
-    </tbody></table></center>
+    <tr><td><center>&nbsp;&nbsp;&nbsp;&nbsp;New-technology&nbsp;&nbsp;&nbsp;&nbsp;</center></td></tr>
+    </tbody></table>
   </div>
   <div style="flex: 1;">
     <h2><center><code style="padding: 5px;">Certifications</code></center></h2>
-    <table><tbody>
+    <table style="margin-left: auto; margin-right: auto;"><tbody>
     <tr><td>
         <ol><li>Financial
             <ul>
