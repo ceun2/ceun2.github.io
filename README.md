@@ -10,19 +10,19 @@
 </div>
 
 <br>
-<div style="display: flex;">
+<div style="display: flex;justify-content: center;">
   <div style="flex: 1;">
     <h2><center><code style="padding: 5px;">Skills</code></center></h2>
-    <table><tbody>
+    <center><table><tbody>
     <tr><td><center>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>JAVA</code> &nbsp;&nbsp;<code>Kotlin</code> &nbsp;&nbsp;<code>Python</code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</center></td></tr>
-    </tbody></table>
+    </tbody></table></center>
   </div>
   <div style="flex: 1;">
     <h2><center><code style="padding: 5px;">Interest</code></center></h2>
-    <table><tbody>
+    <center><table><tbody>
     <tr><td><center>START-UP</center></td></tr>
-    <tr><td><center>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;New-technology&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</center></td></tr>
-    </tbody></table>
+    <tr><td><center>New-technology&nbsp;&nbsp;&nbsp;&nbsp;</center></td></tr>
+    </tbody></table></center>
   </div>
   <div style="flex: 1;">
     <h2><center><code style="padding: 5px;">Certifications</code></center></h2>
@@ -42,8 +42,6 @@
           </li>
         </ol></td></tr>
   </tbody></table>
-
-
   </div>
 </div>
 
